@@ -1,7 +1,7 @@
 import React from "react";
 
-function createTrip() {
+function CreateTrip() {
   return <div>createTrip</div>;
 }
 
-export default createTrip;
+export default CreateTrip;
